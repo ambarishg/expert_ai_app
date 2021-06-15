@@ -1,0 +1,9 @@
+expertai-nlapi
+nltk
+sklearn
+wordcloud
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
