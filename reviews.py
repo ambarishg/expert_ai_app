@@ -18,6 +18,8 @@ selected_columns_tweets = ["text","sentiment_overall",
 strategy = st.sidebar.radio("Select Analysis Strategy",
                  ('Tweets','Customer Reviews','Single Input'))
 
+st.markdown("# Customer Sentiment Analytics Tool")
+
 def clean_text(text):
     '''Make text lowercase,remove punctuation
     .'''

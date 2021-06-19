@@ -23,5 +23,23 @@ The analysis can be further filtered by
 * Emotions   
 * Behavior    
 
+# Women's clothing reviews
 
+The Tweets analysis can be done for 
+* all the Dress types  
+* for a particular dress type
+
+The analysis has the following parts   
+* Distribution of sentiments  
+* Distribution of emotional traits  
+* Distribution of behavioral traits   
+* Most Important Concepts  
+* Most Common Words         
+* Most negative / positive reviews     
+
+The analysis can be further filtered by    
+* Dress Type         
+* Sentiment Category        
+* Emotions   
+* Behavior    
 
