@@ -10,7 +10,13 @@ The Tweets analysis can be done for
 * Donald Trump handle   
 * Hillary Clinton handle   
 
-The analysis has the following parts   
+# Women's clothing reviews
+
+The Womens clothing reviews analysis can be done for 
+* all the Dress types  
+* for a particular dress type
+
+The analysis for both the components has the following parts   
 * Distribution of sentiments  
 * Distribution of emotional traits  
 * Distribution of behavioral traits   
@@ -19,26 +25,6 @@ The analysis has the following parts
 * Most negative reviews     
 
 The analysis can be further filtered by    
-* Sentiment Category        
-* Emotions   
-* Behavior    
-
-# Women's clothing reviews
-
-The Tweets analysis can be done for 
-* all the Dress types  
-* for a particular dress type
-
-The analysis has the following parts   
-* Distribution of sentiments  
-* Distribution of emotional traits  
-* Distribution of behavioral traits   
-* Most Important Concepts  
-* Most Common Words         
-* Most negative / positive reviews     
-
-The analysis can be further filtered by    
-* Dress Type         
 * Sentiment Category        
 * Emotions   
 * Behavior    
