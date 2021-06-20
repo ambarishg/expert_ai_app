@@ -1,4 +1,4 @@
-The **Customer Analytics Platform Application**  has 3 components   
+The **Customer Analytics Tool**  has 3 components   
 * Tweets analysis       
 * Customer Reviews Analysis 
 * Individual Text Analysis     
@@ -16,7 +16,7 @@ The Womens clothing reviews analysis can be done for
 * all the Dress types  
 * for a particular dress type
 
-The analysis for both the components has the following parts   
+The analysis for `both the components` has the following parts   
 * Distribution of sentiments  
 * Distribution of emotional traits  
 * Distribution of behavioral traits   
@@ -29,3 +29,11 @@ The analysis can be further filtered by
 * Emotions   
 * Behavior    
 
+# Individual Text Analysis 
+Individual text analysis of a text is done and the following are shown   
+* Overall Sentiment score of the text   
+* Emotions in the text   
+* Behavior in the text   
+* Key Phrases   
+* Key Entities   
+* Key relations  
