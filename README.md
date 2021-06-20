@@ -3,7 +3,7 @@ The **Customer Analytics Tool**  has 3 components
 * Customer Reviews Analysis 
 * Individual Text Analysis    
 
-To read about the functionalities please click [Project Description](../ProjectDescription.md)      
+To read about the functionalities please click [Project Description](https://github.com/ambarishg/expert_ai_app/blob/main/ProjectDescription.md)      
 
 # Installation  
 
