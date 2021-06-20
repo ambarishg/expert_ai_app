@@ -16,7 +16,7 @@ The Womens clothing reviews analysis can be done for
 * all the Dress types  
 * for a particular dress type (`Dresses,Pants, Swim, Jeans,Blouses,Intimates`)
 
-The analysis for `both the components` has the following parts   
+The analysis for `both the components` has the following functionalities   
 * Distribution of sentiments  
 * Distribution of emotional traits  
 * Distribution of behavioral traits   
