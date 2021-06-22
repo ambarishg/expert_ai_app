@@ -50,4 +50,4 @@ The apis which have been used are as follows:
 The apis have been used extensively in the code in the files
 * code / womenreviews-clean.ipynb   
 * code / womenreviews-clean.ipynb   
-* code / textanalytics.py  
+* textanalytics.py  
